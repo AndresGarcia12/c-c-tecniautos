@@ -1,0 +1,336 @@
+body {
+    background-color: #6d676E;
+    width: 100%;
+    height: 100%;
+}
+
+#header {
+    width: 90%;
+    height: 50px;
+    margin-left: 5%;
+    margin-top: 20px;
+    background-color: #1b1b1E;
+    background-color: #1D1919;
+    border-bottom-color: #FAA916;
+    border-bottom-style: double;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    clear: both;
+    float: left;
+}
+
+#logo {
+    width: 20%;
+    height: 100%;
+    display: block;
+    clear: both;
+    float: left;
+}
+
+#nav {
+    margin: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav a {
+    color: #FBFFFE;
+    font-family: Candara;
+    font-size: 20px;
+    margin: 10px 40px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #FAA916;
+}
+
+#servicio {
+    height: 200px;
+    width: 65%;
+    display: block;
+    border-style: groove;
+    clear: both;
+    float: left;
+    margin-left: 18%;
+    margin-top: 20px;
+}
+
+#Info {
+    width: 85%;
+    min-height: 0px;
+    margin-left: 70px;
+    margin-top: 20px;
+    padding: 30px;
+    background-color: #1b1b1E;
+    display: block;
+    clear: both;
+    float: left;
+}
+
+h1 {
+    color: #96031A;
+    font-family: Candara;
+    margin-left: 5%;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+a1 {
+    color: #96031A;
+    font-family: Candara;
+    margin-left: 12%;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+a1:hover {
+    color: #FAA916;
+}
+
+p1 {
+    color: #FBFFFE;
+    font-family: Candara;
+    font-size: 16px;
+}
+
+p2 {
+    color: #FBFFFE;
+    font-family: Candara;
+    font-size: 20px;
+    display: block;
+    margin-top: 20px;
+    margin-left: 700px;
+}
+
+#slinea {
+    height: 200px;
+    width: 65%;
+    display: block;
+    border-style: groove;
+    clear: both;
+    float: left;
+    margin-left: 18%;
+    margin-top: 20px;
+}
+
+footer {
+    width: 90%;
+    min-height: 200px;
+    margin-left: 5%;
+    margin-top: 20px;
+    background-color: #1D1919;
+    border-top-color: #FAA916;
+    border-top-style: double;
+    display: block;
+    clear: both;
+    float: left;
+}
+
+#Servicios {
+    width: 100%;
+    min-height: 0px;
+    margin-left: 0px;
+    margin-top: 20px;
+    padding: 30px;
+    background-color: #1b1b1E;
+    border-style: double;
+    display: block;
+    clear: both;
+    float: left;
+}
+
+#Serviciostel {
+    width: 210px;
+    min-height: 0px;
+    margin-left: 350px;
+    margin-top: 20px;
+    padding: 30px;
+    background-color: #661C1D;
+    text-align: center;
+    border-style: double;
+    display: block;
+    clear: both;
+    float: left;
+}
+
+#Tiendarep {
+    width: 210px;
+    min-height: 0px;
+    margin-left: 350px;
+    margin-top: 20px;
+    padding: 30px;
+    background-color: #661C1D;
+    text-align: center;
+    border-style: double;
+    display: block;
+    clear: both;
+    float: left;
+}
+
+#Asesoria {
+    width: 210px;
+    min-height: 0px;
+    margin-left: 350px;
+    margin-top: 20px;
+    padding: 30px;
+    text-align: center;
+    background-color: #661C1D;
+    border-style: double;
+    display: block;
+    clear: both;
+    float: left;
+}
+
+#sdomi {
+    height: 200px;
+    width: 65%;
+    display: block;
+    border-style: groove;
+    clear: both;
+    float: left;
+    margin-left: 18%;
+    margin-top: 20px;
+}
+
+#domis {
+    width: 210px;
+    min-height: 0px;
+    margin-left: 350px;
+    margin-top: 20px;
+    padding: 30px;
+    text-align: center;
+    background-color: aliceblue;
+    border-style: double;
+    display: block;
+    clear: both;
+    float: left;
+}
+
+#Peri {
+    width: 210px;
+    min-height: 0px;
+    margin-left: 350px;
+    margin-top: 20px;
+    padding: 30px;
+    text-align: center;
+    background-color: aliceblue;
+    border-style: double;
+    display: block;
+    clear: both;
+    float: left;
+}
+
+#Asesoriap {
+    width: 210px;
+    min-height: 0px;
+    margin-left: 350px;
+    margin-top: 20px;
+    padding: 30px;
+    text-align: center;
+    background-color: #661C1D;
+    border-style: double;
+    display: block;
+    clear: both;
+    float: left;
+}
+
+#wrapper {
+    max-width: 1020px;
+    margin: 0 auto;
+    background-color: #1b1b1E;
+}
+
+#STL {
+    width: 100%;
+    min-height: 0px;
+    margin-left: 0px;
+    margin-top: 20px;
+    padding: 30px;
+    text-align: center;
+    background-color: #1b1b1E;
+    border-style: double;
+    display: block;
+    clear: both;
+    float: left;
+}
+
+h2 {
+    color: #FBFFFE;
+    font-family: Candara;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+
+/* Produts */
+
+.products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.producto {
+    width: 230px;
+    min-height: 200px;
+    margin-top: 20px;
+    padding: 30px;
+    text-align: center;
+    background-color: aliceblue;
+    border-style: double;
+    display: block;
+    clear: both;
+    float: left;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.product {
+    height: 80px;
+    width: 30px;
+}
+
+span .precios {}
+
+#btnCompra {
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+
+/* Log-in */
+
+#log-in {
+    height: 100%;
+    width: auto;
+    background-color: inherit;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+#log-in form {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: inherit;
+    margin: 1em;
+}
+
+.alert {
+    color: red;
+    padding: 1em;
+}
+
+
+.wrapper a{
+    color:white;
+    padding: 1em;
+    font-size: large;
+}
